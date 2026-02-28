@@ -10,7 +10,7 @@ This project demonstrates component-based architecture, state management, and dy
 
 🔗 http://to-do-list-six-puce-80.vercel.app
 
----
+
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ This project demonstrates component-based architecture, state management, and dy
 - HTML5
 - CSS3
 
----
+
 
 ## 📂 Project Structure
 
@@ -68,7 +68,7 @@ tla/
 - Add task filtering (All / Completed / Pending)
 - Add dark mode
 
----
+
 
 ## 👩‍💻 Author
 
