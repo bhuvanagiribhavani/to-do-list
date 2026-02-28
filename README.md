@@ -4,7 +4,7 @@ A simple and responsive Todo List application built using **React.js**.
 
 This project demonstrates component-based architecture, state management, and dynamic UI updates.
 
----
+
 
 ## 🚀 Live Demo
 
@@ -20,7 +20,7 @@ This project demonstrates component-based architecture, state management, and dy
 - 🔄 Real-time UI updates
 - 📱 Responsive design
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -42,7 +42,7 @@ tla/
 └── README.md
 ```
 
----
+
 
 ## ▶️ Run Locally
 
@@ -59,7 +59,7 @@ tla/
    npm start
    ```
 
----
+
 
 ## 💡 Future Improvements
 
