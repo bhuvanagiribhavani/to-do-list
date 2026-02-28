@@ -76,6 +76,6 @@ Bhavani
 
 Built as a React practice project to strengthen frontend development skills.
 
----
+
 
 ⭐ If you like this project, feel free to star the repository!
